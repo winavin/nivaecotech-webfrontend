@@ -31,6 +31,14 @@ const Blogs = () => {
       imageUrl: "/blogs/turnkey-epc-services.jpg",
       readMore: "/blogs/turnkey-epc-services",
     },
+    {
+      date: "2024-06-17",
+      title: "Investing in Tomorrow: How Turnkey EPC Projects Shape India",
+      content:
+        "India’s trajectory towards becoming an infrastructural powerhouse is increasingly being shaped by the strategic implementation of turnkey Engineering, Procurement, and Construction (EPC) projects. These comprehensive ventures represent a symbiosis of innovation, efficiency, and foresight, where a single entity orchestrates the intricate dance of designing, procuring materials, and constructing large-scale projects.",
+      imageUrl: "/blogs/investing-in-tomorrow.jpg",
+      readMore: "/blogs/investing-in-tomorrow",
+    },
   ];
 
   return (
